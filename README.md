@@ -108,7 +108,7 @@ Model performance was measured using:
 
 ## Limitations
 
-- Limited ability to understand context, irony, or sarcasm  
+- Limited ability to understand context, irony or sarcasm  
 - Assumes word independence  
 - Less expressive than deep neural networks  
 
