@@ -44,8 +44,8 @@ This project demonstrates that **simple, lightweight ML models** can still deliv
 
 A large dataset with labeled reviews was used. For performance and experimentation:
 
-- 10,000 training samples  
-- 2,000 test samples  
+- 10000 training samples  
+- 2000 test samples  
 
 The dataset was preprocessed to ensure:
 
@@ -86,7 +86,7 @@ These parameters were tuned using **Grid Search** and later **5-Fold Cross Valid
 **Why Naive Bayes?**
 
 - Low computational requirements  
-- Fast training and inference  
+- Fast training  
 - Works well for text classification  
 - Suitable for local deployment  
 - Robust against overfitting in small models  
